@@ -1,0 +1,18 @@
+target
+build
+test-output
+gen
+dependency-reduced-pom.xml
+
+# Idea
+*.iml
+.idea
+
+# Eclipse
+.settings
+.classpath
+.project
+
+#Temp Files
+*~
+*.DS_Store
